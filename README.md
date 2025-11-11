@@ -10,5 +10,5 @@ Proses pengiriman datanya dimulai dari halaman ```form_data.dart``` setelah peng
 
 Tangkapan Layar
 
-![](BerkasScreenshots/gambar1.png)
-![](BerkasScreenshots/gambar2.png)
+![](BerkasScreenshot/gambar1.png)
+![](BerkasScreenshot/gambar2.png)
